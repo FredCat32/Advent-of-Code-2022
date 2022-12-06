@@ -1,0 +1,8 @@
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\bin\Debug\AoC Day 1.exe.config
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\bin\Debug\AoC Day 1.exe
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\bin\Debug\AoC Day 1.pdb
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\obj\Debug\AoC Day 1.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\obj\Debug\AoC Day 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\obj\Debug\AoC Day 1.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\obj\Debug\AoC Day 1.exe
+C:\Users\Matthew\source\repos\AoC Day 1\AoC Day 1\obj\Debug\AoC Day 1.pdb
