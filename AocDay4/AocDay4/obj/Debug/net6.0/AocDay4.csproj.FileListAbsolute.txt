@@ -1,0 +1,15 @@
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\bin\Debug\net6.0\AocDay4.exe
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\bin\Debug\net6.0\AocDay4.deps.json
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\bin\Debug\net6.0\AocDay4.runtimeconfig.json
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\bin\Debug\net6.0\AocDay4.dll
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\bin\Debug\net6.0\AocDay4.pdb
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.dll
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\refint\AocDay4.dll
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.pdb
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\AocDay4.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\AocDay4\AocDay4\obj\Debug\net6.0\ref\AocDay4.dll
