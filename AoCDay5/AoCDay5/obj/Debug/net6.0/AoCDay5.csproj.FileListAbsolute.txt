@@ -1,0 +1,15 @@
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\bin\Debug\net6.0\AoCDay5.exe
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\bin\Debug\net6.0\AoCDay5.deps.json
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\bin\Debug\net6.0\AoCDay5.runtimeconfig.json
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\bin\Debug\net6.0\AoCDay5.dll
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\bin\Debug\net6.0\AoCDay5.pdb
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.dll
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\refint\AoCDay5.dll
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.pdb
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\AoCDay5.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\AoCDay5\AoCDay5\obj\Debug\net6.0\ref\AoCDay5.dll
